@@ -2,7 +2,6 @@
 # CS504-Project-Samantha-Hipple
 CS 504: Software Engineering Independent &amp; Team Project Repository
 
-#### 04/14/2022
 ### IP01 Instructions: 
 Configuration Management is a very widely used process in managing complex systems, and software lifecycle is no exception. This process is integral for establishing and maintaining the consistency of the product throughout its life cycle. Software Configuration Management systems track and monitor changes to a software system's configuration metadata. This goes hand in hand with Version Control and Continuous Integration/Continuous Delivery which includes the build function as well. 
 
@@ -44,3 +43,4 @@ Each student will implement and demonstrate test cases in a Configuration Manage
 - Write a CMS playbook (configuration file) to change the runtime variable in the configuration file.  
 
 Each process must be documented. 
+#### 04/14/2022
