@@ -1,5 +1,5 @@
 
-## IP01 Instructions: 
+## IP01 Instructions:
 Configuration Management is a very widely used process in managing complex systems, and software lifecycle is no exception. This process is integral for establishing and maintaining the consistency of the product throughout its life cycle. Software Configuration Management systems track and monitor changes to a software system's configuration metadata. This goes hand in hand with Version Control and Continuous Integration/Continuous Delivery which includes the build function as well. 
 
 One of the most challenging parts of designing a solution is choosing the platform and dependencies. There are certain services to assist with comparing different tools and making decisions. G2 is a peer-reviewing service for evaluating business software. Software Advice is another tool from a research and analyst company for reviewing software. StackOverflow Insights and StackShare can also be used to gain better clarity on the technologies and services being used. 
