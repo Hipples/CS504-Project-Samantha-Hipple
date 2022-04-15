@@ -2,25 +2,25 @@
 ## IP01 Instructions:
 Configuration Management is a very widely used process in managing complex systems, and software lifecycle is no exception. This process is integral for establishing and maintaining the consistency of the product throughout its life cycle. Software Configuration Management systems track and monitor changes to a software system's configuration metadata. This goes hand in hand with Version Control and Continuous Integration/Continuous Delivery which includes the build function as well. 
 
-One of the most challenging parts of designing a solution is choosing the platform and dependencies. There are certain services to assist with comparing different tools and making decisions. G2 is a peer-reviewing service for evaluating business software. Software Advice is another tool from a research and analyst company for reviewing software. StackOverflow Insights and StackShare can also be used to gain better clarity on the technologies and services being used. 
+One of the most challenging parts of designing a solution is choosing the platform and dependencies. There are certain services to assist with comparing different tools and making decisions. [G2](https://www.g2.com/) is a peer-reviewing service for evaluating business software. [Software Advice](https://www.softwareadvice.com/) is another tool from a research and analyst company for reviewing software. [StackOverflow Insights](https://insights.stackoverflow.com/survey) and [StackShare](https://stackshare.io/) can also be used to gain better clarity on the technologies and services being used. 
 
 Students can use any form of documentation or any of the popular options for CMS systems. Some options may include: 
 
 **Enterprise Level:**  
-- IBM Rational ClearCase   
-- Azure DevOps Server  
-- Puppet Enterprise   
-- Chef Enterprise Automation Stack  
-- Perforce   
+- [IBM Rational ClearCase](https://www.ibm.com/products/rational-clearcase)   
+- [Azure DevOps Server](https://azure.microsoft.com/en-us/services/devops/server/)  
+- [Puppet Enterprise](https://puppet.com/products/puppet-enterprise/)   
+- [Chef Enterprise Automation Stack](https://www.chef.io/products/enterprise-automation-stack)  
+- [Perforce](https://www.perforce.com/)   
 
 **Open Source:**  
-- Open Source Puppet   
-- Open Source Chef  
-- Chef Infra     
-- Chef Habitat   
-- Chef Automate   
-- Azure DevOps Server Express   
-- Red Hat Ansible   
+- [Open Source Puppet](https://puppet.com/docs/puppet/7/puppet_index.html)   
+- [Open Source Chef](https://www.chef.io/)  
+    - [Chef Infra](https://www.chef.io/products/chef-infra)     
+    - [Chef Habitat](https://www.chef.io/products/chef-habitat)   
+    - [Chef Automate](https://www.chef.io/products/chef-automate)   
+- [Azure DevOps Server Express](https://go.microsoft.com/fwlink/?LinkId=2041269&clcid=0x409)   
+- [Red Hat Ansible](https://github.com/ansible/ansible)   
 
 Each student will implement and demonstrate test cases in a Configuration Management System (CMS) of their choice. Specific instructions may be provided upon request in addition to the documentation of the CMS selected. Once the CMS has been implemented, the student will create at least two accounts in the system, including one with applicable administrative rights. The student will create test cases to demonstrate how the following situations are handled in the CMS. Below is a suggestion for the processes: 
 
