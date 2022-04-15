@@ -10,7 +10,7 @@ Students must cite the sources of all ideas, facts, tables, images, figures, for
 
 ### Team Project Overview
 
-#### **Project Description:** Software Engineering Project
+**Project Description:** Software Engineering Project  
 After each team member finishes his or her independent project, each team will compare and analyze the independent project of each team member. Each team will use the five independent projects for comparison and analysis.
 
 + IP1: Content Management System
@@ -19,12 +19,12 @@ After each team member finishes his or her independent project, each team will c
 + IP4: Software Metrics
 + IP5: Software Documentation
 
-#### **Project Requirements:**
+**Project Requirements:**  
 As in any scholarly writing, students should not merely copy information from another author. Students should use evidence to support the contentions they have drawn from their findings and critically analyze related literature. In essence, each paper needs to be an analytical paper, not a summary of readings.
 
 Students are expected to use the assigned readings, videos, and other materials throughout the quarter. Students will need to utilize additional sources that were not assigned by the professor. While stylized after an industry report, nonetheless, students are expected to employ APA formatting of citations, footnotes, and bibliography. Students must cite the sources of all ideas, facts, and information used that are not their own, even if they have put the information into their own words. Failure to do so is plagiarism, although the oversight is unintentional. To avoid plagiarism, check ["Avoid Plagiarism"](https://library.cityu.edu/howto/apa-writing/avoid-plagiarism/).
 
-#### **Team Building and the team project:**
+**Team Building and the team project:**  
 In general, team building and team management are very challenging tasks. There are a variety of resources available to help improve teamwork skills. Some of which include but are not limited to the [Atlassian University](https://www.atlassian.com/team-playbook/plays?attribute=remote&), [Managing team collaboration with Microsoft Teams](https://docs.microsoft.com/en-us/learn/paths/m365-manage-team-collaboration/), and [LinkedIn's Improve Your Teamwork Skills](https://www.linkedin.com/learning/paths/improve-your-teamwork-skills). 
 
 Students are **encouraged** to form their own teams at the beginning of the course. The **"Introduce Yourself"** discussion forum provides a good platform for students to learn about each other and find good fits for their teams. In case students have not been included in a team, they will automatically be assigned to a random one by the instructor by the end of Week 2. 
