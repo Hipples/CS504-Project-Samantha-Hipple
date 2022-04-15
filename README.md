@@ -24,9 +24,9 @@ As in any scholarly writing, students should not merely copy information from an
 
 Students are expected to use the assigned readings, videos, and other materials throughout the quarter. Students will need to utilize additional sources that were not assigned by the professor. While stylized after an industry report, nonetheless, students are expected to employ APA formatting of citations, footnotes, and bibliography. Students must cite the sources of all ideas, facts, and information used that are not their own, even if they have put the information into their own words. Failure to do so is plagiarism, although the oversight is unintentional. To avoid plagiarism, check ["Avoid Plagiarism"](https://library.cityu.edu/howto/apa-writing/avoid-plagiarism/).
 
-**Team Building and the team project:**  
+**Team Building and the Team Project:**  
 In general, team building and team management are very challenging tasks. There are a variety of resources available to help improve teamwork skills. Some of which include but are not limited to the [Atlassian University](https://www.atlassian.com/team-playbook/plays?attribute=remote&), [Managing team collaboration with Microsoft Teams](https://docs.microsoft.com/en-us/learn/paths/m365-manage-team-collaboration/), and [LinkedIn's Improve Your Teamwork Skills](https://www.linkedin.com/learning/paths/improve-your-teamwork-skills). 
 
 Students are **encouraged** to form their own teams at the beginning of the course. The **"Introduce Yourself"** discussion forum provides a good platform for students to learn about each other and find good fits for their teams. In case students have not been included in a team, they will automatically be assigned to a random one by the instructor by the end of Week 2. 
 
-**Team Project Peer Evaluation form:** [TP03 & TP04 Peer Evaluation Form](https://forms.office.com/Pages/ResponsePage.aspx?id=2Zb6sxX1Ykat12PYVOOeY1bgcb9pv4xBqjvvrSfsGM5UOTdBTVBOQ0RQNktMTEpSVEVZS0w2VDg0VCQlQCN0PWcu)
+**Team Project Peer Evaluation Form:** [TP03 & TP04 Peer Evaluation Form](https://forms.office.com/Pages/ResponsePage.aspx?id=2Zb6sxX1Ykat12PYVOOeY1bgcb9pv4xBqjvvrSfsGM5UOTdBTVBOQ0RQNktMTEpSVEVZS0w2VDg0VCQlQCN0PWcu)
