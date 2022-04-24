@@ -41,3 +41,63 @@ Each student will implement and demonstrate test cases in a Configuration Manage
 
 Each process must be documented. 
 ##### 04/15/2022
+
+<br>
+<br>  
+<br>
+
+## IP01 Notes
+This IP will be focusing on the overall development of a [freeCodeCamp.org](https://www.freecodecamp.org/) project called [Code a Discord Both with Python - Host for Free in the Cloud](https://www.youtube.com/watch?v=SPTfmiYiuok). 
+
+The Content Management System (CMS) for this project includes [GitHub](https://github.com/Hipples/CS504-Project-Samantha-Hipple), [replit](https://replit.com/) - which is a "free, collaborative, in-browser IDE" according to the site's homepage - and potentially [GitHub Actions](https://github.com/features/actions). 
+
+<br>
+
+### The main tasks for this project include: 
++ **Set up CMS and coding environment:**
+    + create a replit account
+    + manually update GitHub repository as project is updated locally
+    + connect replit and github
+    + explore github actions
+    + have a second github account for CMS testing purposes
+
+<br>
+
++ **Create a discord bot account:**
+    + go to the [Discord Developer Portal](https://discord.com/developers/applications)
+    + select **New Application**, enter a name for the bot, click **Create**
+        + 'Dissident Bot'
+    + click on new bot application icon, then select **OAuth2** and **URL Generator** from the side-panel menu
+    + check **bot** under *SCOPES* and the various *BOT PERMISSIONS* that the bot will use:
+        + Text Permissions:
+            + send messages
+            + send messages in threads
+            + embed links
+            + attach files
+            + read message history
+            + use external emojis
+            + use external stickers
+            + add reactions
+        + General Permissions:
+            + read messages/view channels
+    + copy the *GENERATED URL* and past into your web browser  
+
+<br>  
+
++ **Invite the bot to the DBG discord:**
+    + choose server and authorize the bot to join
+    + check that the bot has joined the server (will be in the offline member list)
+
+<br>
+
+images? need to learn how to add them to .md files
+
+<br>
+
++ **Create test cases for the CMS:**
+    + use updating this project for IP01 test cases (e.g., committing and pushing this updated file can count as a code check-in)
+
+<br>
+
++ **Author paper on content managment to submit by 04/24/22 11:59PM**
+##### 04/23/2022
