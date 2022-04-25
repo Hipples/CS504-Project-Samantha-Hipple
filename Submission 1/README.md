@@ -102,3 +102,25 @@ images? need to learn how to add them to .md files
 
 + **Author paper on content managment to submit by 04/24/22 11:59PM**
 ##### 04/23/2022
+
+<br>
+<br>
+<br>
+
+### CMS Test Cases
+
+**Code checkout:** 
+- Code checkin (or Git Commit) 
+- Code Pull request 
+- Code Merge 
+- Code snapshot (or release point) 
+- Code in development by two users, 
+    - first one checks out code, 
+    - second checks out code, makes changes and checks in, 
+    - first makes changes and needs to check in. 
+- Code changes need to be rolled back to a previous version (revert). 
+
+- One developer is working on a new version, one is fixing bugs in a previous release (Git fork). 
+- Define runtime variable for your software 
+- Deploy the software on your local machine or a cloud  
+- Write a CMS playbook (configuration file) to change the runtime variable in the configuration file.
