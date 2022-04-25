@@ -49,11 +49,11 @@ Each process must be documented.
 ## IP01 Notes
 This IP will be focusing on the overall development of a [freeCodeCamp.org](https://www.freecodecamp.org/) project called [Code a Discord Both with Python - Host for Free in the Cloud](https://www.youtube.com/watch?v=SPTfmiYiuok). 
 
-The Content Management System (CMS) for this project includes [GitHub](https://github.com/Hipples/CS504-Project-Samantha-Hipple), [replit](https://replit.com/) - which is a "free, collaborative, in-browser IDE" according to the site's homepage - and potentially [GitHub Actions](https://github.com/features/actions). 
+The Content Management System (CMS) for this project includes [GitHub](https://github.com/Hipples/CS504-Project-Samantha-Hipple), [Repl.it](https://replit.com/) - which is a "free, collaborative, in-browser IDE" according to the site's homepage - and potentially [GitHub Actions](https://github.com/features/actions). 
 
 <br>
 
-### The main tasks for this project include: 
+### The main tasks for this initial IP include: 
 + **Set up CMS and coding environment:**
     + create a replit account
     + manually update GitHub repository as project is updated locally
@@ -96,6 +96,7 @@ images? need to learn how to add them to .md files
 
 + **Create test cases for the CMS:**
     + use updating this project for IP01 test cases (e.g., committing and pushing this updated file can count as a code check-in)
+    + install [github desktop](https://desktop.github.com/) application
 
 <br>
 

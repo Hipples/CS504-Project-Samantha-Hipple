@@ -2,6 +2,7 @@
 # CS504-Project-Samantha-Hipple
 CS 504: Software Engineering Independent &amp; Team Project Repository
 
+<br>
 
 ### Independent Project Overview
 An independent project requires each student to analyze an instructor-approved topic and its requirement, design a system or component based on the given subject, implement the designed system, and test the system. The paper must be no less than 3-4 pages, excluding the title and reference pages, using APA format, with at least five (5) recent, scholarly/non-scholarly, peer- or non-peer-reviewed references. As in any academic writing, students should not merely copy information from another author, but use evidence to support the contentions they have drawn from their findings and critically analyze related literature. Each paper needs to be an analytical paper, not a summary of readings.
@@ -13,14 +14,14 @@ This IP will be focusing on the overall development of a [freeCodeCamp.org](http
 
 **IP1:** The Content Management System (CMS) for this project includes [GitHub](https://github.com/Hipples/CS504-Project-Samantha-Hipple), [replit](https://replit.com/) - which is a "free, collaborative, in-browser IDE" according to the site's homepage - and potentially [GitHub Actions](https://github.com/features/actions). 
 
-
+<br>
 
 ### Team Project Overview
 
 **Project Description:** Software Engineering Project  
 After each team member finishes his or her independent project, each team will compare and analyze the independent project of each team member. Each team will use the five independent projects for comparison and analysis.
 
-+ IP1: Content Management System
++ IP1: Configuration Management System
 + IP2: Requirements & Architecture
 + IP3: Test Plan & Cases
 + IP4: Software Metrics
