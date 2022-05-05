@@ -1,7 +1,9 @@
 
 ### IP02: Requirements and Architecture
 
-Requirement Engineering involves some important steps to ensure the quality of a designed software product. These steps include: 
+Requirement Engineering involves some important steps to ensure the quality of a designed software product. 
+
+These steps include: 
 - Elicitation
 - Documentation and definition
 - Specification
@@ -22,13 +24,35 @@ The student will create all design artifacts appropriate to the selected style.
 
 For example, a project idea would be to design the requirements management for a crawler system with high performance (avoid having to download the same page twice), speed and reliability.
 
-
 Students can use any form of documentation (such as Microsoft word, ...) or any of the popular options for RMS systems. Some options may include:
 
 Enterprise Level:
-Jama Software
-Open Source:
+- Jama Software
+
 Start Date
 Apr 22, 2022 11:59 PM
+
 Due Date
 May 8, 2022 11:59 PM
+
+<br>
+<br>
+
+#### Date: May 5, 2022
+### Initial Brainstorming Process
+
+Continue with discord bot.
+End of IP02 should have a bot that demonstrates similar (or same) features as youtube video walkthough, including continuous hosting if still possible. 
+What are the features? Make a list by reviewing the video. 
+What features are the server members interested in? Are any realistic with my current skill set?
+Need to research "RMS" which I can only assume means requirements management system 
+Are there any nonfunctional requirements for this bot? What might they be?
+What documentation should we use? This should be considered an agile project vs a traditional. 
+What does specification involve?
+What does prototyping involve?
+
+What does this mean?
+The student will map the resulting requirements into a systems architecture or high-level design and trace the mapping of requirements to modules in the architecture. 
+Like a use case diagram? UML stuff?
+
+What does analysis involve?
