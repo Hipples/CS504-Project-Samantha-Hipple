@@ -61,4 +61,48 @@ Explore Azure Devops and Modern Requirements
 Cannot seem to use those with my "home" version of microsoft office, neat
 But can maybe use website version? I don't know. The software is pretty confusing, tbh. 
 
+<br>
+<br>
+
+#### Date: May 8, 2022
+### IP02 Report Planning
+
+Requirements Engineering and System Architecture
+
+In preparation I have: 
+- created a use case diagram
+- created a requirements collection report
+- created a requirements brainstorming document
+- created a document analysis regarding the bot tutorial
+- began exploring the scrum/agile process 
+- chose smartsheets as my RMS (1 month free trial -- also a phone app)
+- learned I need to take more time to get the bot to stay online successfully
+
+I still need to:
+- create the agile/scrum plan based on the collected requirements
+- write my report in its entirety
+
+Brainstorming my report outline:
+- What is requirements engineering?
+- Traditional vs Agile?
+- Available RMS? Chose smartsheets
+- Requirements process for a singular-stakeholder project (modified agile/scrum process)
+- Elicitation (project overview, document analysis, brainstorming notes)
+- Specification (functional, nonfunctional, dependencies)
+- Analysis (use case diagram)
+- Review and validation -- Future requirements/changes?? Something like that. 
+- Agreement and acceptance 
+- Conclusion
+- References
+
+IP02 References: 
+
+https://www.geeksforgeeks.org/software-engineering-requirements-engineering-process/
+
+https://www.javatpoint.com/software-engineering-requirement-engineering
+
+https://www.kpipartners.com/blog/traditional-vs-agile-software-development-methodologies#:~:text=The%20main%20difference%20between%20traditional,in%20Agile%2C%20it%20is%20iterative.
+
+https://www.tutorialspoint.com/agile/agile_manifesto.htm
+
 
