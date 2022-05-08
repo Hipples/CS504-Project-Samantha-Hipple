@@ -56,3 +56,9 @@ The student will map the resulting requirements into a systems architecture or h
 Like a use case diagram? UML stuff?
 
 What does analysis involve?
+
+Explore Azure Devops and Modern Requirements 
+Cannot seem to use those with my "home" version of microsoft office, neat
+But can maybe use website version? I don't know. The software is pretty confusing, tbh. 
+
+
