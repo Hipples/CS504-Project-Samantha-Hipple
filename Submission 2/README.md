@@ -105,4 +105,17 @@ https://www.kpipartners.com/blog/traditional-vs-agile-software-development-metho
 
 https://www.tutorialspoint.com/agile/agile_manifesto.htm
 
+https://www.guru99.com/requirement-management-tools.html
+
+https://app.smartsheet.com/b/publish?EQBCT=dc9947a9e8f34d1ca6ad207b18505e59
+
+https://www.jamasoftware.com/requirements-management-guide/requirements-validation-and-verification/requirements-verification-and-validation-for-product-teams
+
+https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-use-case-diagram/
+
+https://blog.bitsrc.io/good-engineering-practices-while-working-solo-ad872e727af4
+
+http://www.effectiveengineer.com/blog/beware-the-one-person-team
+
+
 
