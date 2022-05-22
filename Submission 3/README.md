@@ -55,7 +55,8 @@ https://realpython.com/python-testing/
 <br>
 
 ### Research Notes
->To have a complete set of manual tests, all you need to do is make a list of all the features your application has, the different types of input it can accept, and the expected results. Now, every time you make a change to your code, you need to go through every single item on that list and check it \([source]\)(https://realpython.com/python-testing/).
+>To have a complete set of manual tests, all you need to do is make a list of all the features your application has, the different types of input it can accept, and the expected results. Now, every time you make a change to your code, you need to go through every single item on that list and check it. 
+[source](https://realpython.com/python-testing/).
 
 **Tic Tac Toe v2.0 Features:**
 
