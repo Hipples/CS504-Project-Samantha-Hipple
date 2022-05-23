@@ -50,13 +50,16 @@ May 22, 2022 11:59 PM
 ### Research Links
 https://www.guru99.com/test-driven-development.html
 https://realpython.com/python-testing/
+https://docs.python.org/3/library/unittest.html
 
 <br>
 <br>
 
 ### Research Notes
->To have a complete set of manual tests, all you need to do is make a list of all the features your application has, the different types of input it can accept, and the expected results. Now, every time you make a change to your code, you need to go through every single item on that list and check it. 
-[source](https://realpython.com/python-testing/).
+>To have a complete set of manual tests, all you need to do is make a list of all the features your application has, the different types of input it can accept, and the expected results. Now, every time you make a change to your code, you need to go through every single item on that list and check it.  
+
+[source](https://realpython.com/python-testing/)  
+
 
 **Tic Tac Toe v2.0 Features:**
 
@@ -87,4 +90,17 @@ https://realpython.com/python-testing/
 
 - [ ] start up menu creation
 - [ ] start up menu display
-- [ ] ability to choose gamemode to initiate desired gameplay loop
+- [ ] ability to choose gamemode to initiate desired gameplay loop  
+
+<br>
+<br>
+
+**Brainstorming:**  
++ TDD Vs. Traditional Testing
++ Test Driven Development (TDD) Vs. Agile Model Driven Development (AMDD)
++ How to perform TDD Test
++ Testing in Python -- is testing different for different languages/frameworks?
++ How to write test scripts
++ Automating testing
++ Test runners
++ Handling expected errors
