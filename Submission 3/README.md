@@ -7,7 +7,8 @@
 There are multiple techniques for detecting errors in programs and in intermediate documentation: 
 
 - *Testing*, which is the process of designing test cases, executing the program in a controlled environment, and verifying that the output is correct.
-- Inspection and reviews, which can be applied to a program or to intermediate software artifacts. Inspections and reviews require the involvement of more than one person in addition to the original creator of the product and are very cost intensive. Reviews and inspections have been found to be most cost effective when applied to requirements specifications.
+
+- *Inspection and reviews*, which can be applied to a program or to intermediate software artifacts. Inspections and reviews require the involvement of more than one person in addition to the original creator of the product and are very cost intensive. Reviews and inspections have been found to be most cost effective when applied to requirements specifications.
 
 - *Formal methods*, which are mathematical techniques used to “prove” that a program is correct. These are rarely applied in business and commercial industries.
 
@@ -51,6 +52,12 @@ May 22, 2022 11:59 PM
 https://www.guru99.com/test-driven-development.html
 https://realpython.com/python-testing/
 https://docs.python.org/3/library/unittest.html
+https://www.guru99.com/software-testing-introduction-importance.html#1
+https://www.guru99.com/testing-methodology.html
+https://www.geeksforgeeks.org/software-engineering-debugging/
+https://www.ibm.com/topics/software-testing
+https://www.tutorialspoint.com/software_engineering/software_testing_overview.htm
+https://medium.com/geekculture/how-to-write-your-first-unit-test-in-multiple-programming-languages-6d158d362b3d
 
 <br>
 <br>
@@ -104,3 +111,8 @@ https://docs.python.org/3/library/unittest.html
 + Automating testing
 + Test runners
 + Handling expected errors
+
+What is testing in relation to software engineering?
+Why is testing important?
+What types of testing are there?
+What type of testing is best for an independent project?
