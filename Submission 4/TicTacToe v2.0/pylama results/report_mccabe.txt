@@ -1,0 +1,8 @@
+Namespace(paths=['C:/Users/Saman/Desktop/CS 504 (software engineering)/05. Independent Project/CS504-Project-Samantha-Hipple/Submission 4/TicTacToe v2.0'], verbose=True, options=None, linters=['mccabe'], from_stdin=False, concurrent=False, format='pycodestyle', abspath=False, max_line_length=100, select=set(), ignore=set(), skip=[], sort=None, report='report_mccabe.txt', hook=False, max_complexity=10, pydocstyle_convention=None, pylint_confidence=None, radon_no_assert=False, radon_show_closures=False, file_params={}, linters_params={})
+
+Run [mccabe] main.py
+Run [mccabe] test.py
+Run [mccabe] tic_tac_toe.py
+Run [mccabe] ttt_menus.py
+
+tic_tac_toe.py:120:5 C901 'TicTacToe.is_winner' is too complex (15) [mccabe]

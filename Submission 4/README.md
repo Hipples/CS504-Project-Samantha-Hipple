@@ -42,10 +42,21 @@ Python has a bunch of libraries available for this type of metrics analsys
 So far Radon and Pylint is giving me metrics to work with for this paper, maybe test a couple more from the list
 
 Radon provides:
+- Cyclomatic Complexity
+- raw metrics
+- Maintainability Index
+- Halstead metrics
 
-Pylint provides: 
+Pylint is a static code analyser that: 
+- checks for errors
+- enforces a coding standard
+- looks for [code smells](https://martinfowler.com/bliki/CodeSmell.html)
+- makes suggestions for code refractoring 
+
+Pyflakes
 
 ### Research References
 https://www.fullstackpython.com/code-metrics.html
 https://www.mantidproject.org/How_to_run_Pylint.html#To_Run_Pylint
+https://pypi.org/project/pylint/
 https://radon.readthedocs.io/en/latest/index.html

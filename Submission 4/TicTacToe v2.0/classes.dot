@@ -1,0 +1,5 @@
+digraph "classes" {
+rankdir=BT
+charset="utf-8"
+"tic_tac_toe.TicTacToe" [color="black", fontcolor="black", label="{TicTacToe|board : list\lmatch_records : str\lvalues : list\l|assign_markers()\lchoose_marker()\lcoin_flip()\lcomputer_move(player)\lcreate_board()\ldisplay_board()\lgame_mode_1_PvP()\lgame_mode_2_PvE()\lget_coords(player)\lhuman_moves(player)\lis_board_full()\lis_winner(board, player)\lplace_marker(row, col, player)\lplayer_move(player)\lrandom_moves()\lreplay()\lreset_board()\lswap_player_turn(player)\l}", shape="record", style="solid"];
+}

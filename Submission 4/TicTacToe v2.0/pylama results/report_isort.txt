@@ -1,0 +1,10 @@
+Namespace(paths=['C:/Users/Saman/Desktop/CS 504 (software engineering)/05. Independent Project/CS504-Project-Samantha-Hipple/Submission 4/TicTacToe v2.0'], verbose=True, options=None, linters=['isort'], from_stdin=False, concurrent=False, format='pycodestyle', abspath=False, max_line_length=100, select=set(), ignore=set(), skip=[], sort=None, report='report_isort.txt', hook=False, max_complexity=10, pydocstyle_convention=None, pylint_confidence=None, radon_no_assert=False, radon_show_closures=False, file_params={}, linters_params={})
+
+Run [isort] main.py
+Run [isort] test.py
+Run [isort] tic_tac_toe.py
+Run [isort] ttt_menus.py
+
+main.py:0:1  Incorrectly sorted imports. [isort]
+test.py:0:1  Incorrectly sorted imports. [isort]
+tic_tac_toe.py:0:1  Incorrectly sorted imports. [isort]

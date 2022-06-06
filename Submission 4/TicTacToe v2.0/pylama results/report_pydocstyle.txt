@@ -1,0 +1,51 @@
+Namespace(paths=['C:/Users/Saman/Desktop/CS 504 (software engineering)/05. Independent Project/CS504-Project-Samantha-Hipple/Submission 4/TicTacToe v2.0'], verbose=True, options=None, linters=['pydocstyle'], from_stdin=False, concurrent=False, format='pycodestyle', abspath=False, max_line_length=100, select=set(), ignore=set(), skip=[], sort=None, report='report_pydocstyle.txt', hook=False, max_complexity=10, pydocstyle_convention=None, pylint_confidence=None, radon_no_assert=False, radon_show_closures=False, file_params={}, linters_params={})
+
+Run [pydocstyle] main.py
+Run [pydocstyle] test.py
+Run [pydocstyle] tic_tac_toe.py
+Run [pydocstyle] ttt_menus.py
+
+main.py:1:1 D100 Missing docstring in public module [pydocstyle]
+main.py:8:1 D103 Missing docstring in public function [pydocstyle]
+main.py:30:1 D103 Missing docstring in public function [pydocstyle]
+
+test.py:1:1 D100 Missing docstring in public module [pydocstyle]
+test.py:13:1 D203 1 blank line required before class docstring [pydocstyle]
+test.py:13:1 D300 Use """triple double quotes""" [pydocstyle]
+test.py:50:1 D400 First line should end with a period [pydocstyle]
+test.py:50:1 D415 First line should end with a period, question mark, or exclamation point [pydocstyle]
+test.py:84:1 D300 Use """triple double quotes""" [pydocstyle]
+
+tic_tac_toe.py:1:1 D100 Missing docstring in public module [pydocstyle]
+tic_tac_toe.py:7:1 D203 1 blank line required before class docstring [pydocstyle]
+tic_tac_toe.py:7:1 D204 1 blank line required after class docstring [pydocstyle]
+tic_tac_toe.py:7:1 D400 First line should end with a period [pydocstyle]
+tic_tac_toe.py:9:1 D107 Missing docstring in __init__ [pydocstyle]
+tic_tac_toe.py:15:1 D102 Missing docstring in public method [pydocstyle]
+tic_tac_toe.py:21:1 D102 Missing docstring in public method [pydocstyle]
+tic_tac_toe.py:33:1 D102 Missing docstring in public method [pydocstyle]
+tic_tac_toe.py:37:1 D102 Missing docstring in public method [pydocstyle]
+tic_tac_toe.py:47:1 D102 Missing docstring in public method [pydocstyle]
+tic_tac_toe.py:52:1 D102 Missing docstring in public method [pydocstyle]
+tic_tac_toe.py:56:1 D102 Missing docstring in public method [pydocstyle]
+tic_tac_toe.py:62:1 D102 Missing docstring in public method [pydocstyle]
+tic_tac_toe.py:69:1 D102 Missing docstring in public method [pydocstyle]
+tic_tac_toe.py:79:1 D102 Missing docstring in public method [pydocstyle]
+tic_tac_toe.py:83:1 D102 Missing docstring in public method [pydocstyle]
+tic_tac_toe.py:101:1 D102 Missing docstring in public method [pydocstyle]
+tic_tac_toe.py:112:1 D102 Missing docstring in public method [pydocstyle]
+tic_tac_toe.py:120:1 D102 Missing docstring in public method [pydocstyle]
+tic_tac_toe.py:149:1 D102 Missing docstring in public method [pydocstyle]
+tic_tac_toe.py:152:1 D102 Missing docstring in public method [pydocstyle]
+tic_tac_toe.py:164:1 D400 First line should end with a period [pydocstyle]
+tic_tac_toe.py:164:1 D415 First line should end with a period, question mark, or exclamation point [pydocstyle]
+tic_tac_toe.py:244:1 D400 First line should end with a period [pydocstyle]
+
+ttt_menus.py:1:1 D100 Missing docstring in public module [pydocstyle]
+ttt_menus.py:1:1 D101 Missing docstring in public class [pydocstyle]
+ttt_menus.py:2:1 D107 Missing docstring in __init__ [pydocstyle]
+ttt_menus.py:5:1 D102 Missing docstring in public method [pydocstyle]
+ttt_menus.py:25:1 D102 Missing docstring in public method [pydocstyle]
+ttt_menus.py:28:1 D102 Missing docstring in public method [pydocstyle]
+ttt_menus.py:33:1 D102 Missing docstring in public method [pydocstyle]
+ttt_menus.py:51:1 D102 Missing docstring in public method [pydocstyle]
