@@ -53,7 +53,7 @@ Pylint is a static code analyser that:
 - looks for [code smells](https://martinfowler.com/bliki/CodeSmell.html)
 - makes suggestions for code refractoring 
 
-Pyflakes
+Pylama
 
 ### Research References
 https://www.fullstackpython.com/code-metrics.html
