@@ -27,6 +27,8 @@ Jun 19, 2022 11:59 PM
 
 So, if autohelp is a module created to automatically create documents for web apps and such, then there must be some that exist for Python as well.
 
+https://realpython.com/documenting-python-code/
+
 a wiki: https://wiki.python.org/moin/DocumentationTools  
 blog on comparisons : https://medium.com/@peterkong/comparison-of-python-documentation-generators-660203ca3804  
 sphinx & read the docs : https://towardsdatascience.com/how-to-set-up-your-python-project-docs-for-success-aab613f79626  
@@ -37,3 +39,5 @@ sphinx : https://www.sphinx-doc.org/en/master/
 pdoc : https://github.com/mitmproxy/pdoc
 doxygen : https://www.doxygen.nl/manual/docblocks.html
 autoDocstring : https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring
+
+finish TP for other course first, then write paper on the end project comparing the results of some of these modules 
